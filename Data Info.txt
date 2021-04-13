@@ -1,0 +1,69 @@
+=================================DATASET INFORMATION====================================
+
+Dataset Characteristics:
+1. Multi-Variate Data
+2. Time Series Data
+
+________________________________________________________________________________________
+The experiments were carried out with a group of 30 volunteers within an age bracket of 19-48 years.
+They performed a protocol of activities composed of six basic activities:
+-3 static postures (standing, sitting, lying) 
+-3 dynamic activities (walking, walking downstairs and walking upstairs). 
+
+The experiment also included postural transitions that occurred between the static postures: 
+1. stand-to-sit
+2. sit-to-stand
+3. sit-to-lie
+4. lie-to-sit
+5. stand-to-lie
+6. lie-to-stand. 
+
+All the participants were wearing a smartphone (Samsung Galaxy S II) on the waist during the experiment execution. 
+Data capatured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz using the embedded accelerometer and gyroscope of the device. 
+The experiments were video-recorded to label the data manually. 
+The obtained dataset was randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
+
+The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). 
+The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. 
+The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of 561 features was obtained by calculating variables from the time and frequency domain.
+________________________________________________________________________________________
+
+Attribute Information:
+
+The dataset is then divided in two parts-
+
+1. Inertial Sensor Data:
+- Raw triaxial signals from the accelerometer and gyroscope of all the trials with with participants.
+- The labels of all the performed activities.
+
+2. Records of activity windows, composed of:
+- A 561-feature vector with time and frequency domain variables.
+- Its associated activity label.
+- An identifier of the subject who carried out the experiment.
+
+________________________________________________________________________________________
+
+Activity Labels:
+
+1 WALKING           
+2 WALKING_UPSTAIRS  
+3 WALKING_DOWNSTAIRS
+4 SITTING           
+5 STANDING          
+6 LAYING            
+7 STAND_TO_SIT      
+8 SIT_TO_STAND      
+9 SIT_TO_LIE        
+10 LIE_TO_SIT        
+11 STAND_TO_LIE      
+12 LIE_TO_STAND   
+
+________________________________________________________________________________________
+
+Note:
+
+- Features are normalized and bounded within [-1,1].
+- Each feature vector is a row on the 'X' and 'y' files.
+- The units used for the accelerations (total and body) are 'g'(gravity of earth-> 9.80665 m/seg2).
+- The gyroscope units are rad/seg.
+
