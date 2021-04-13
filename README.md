@@ -21,7 +21,7 @@ ML Algorithms used:
 
 Run the HumanActivityRecognition_smartphone_based.py or HumanActivityRecognition_smartphone_based.ipynb with neccesary changes in the Dataset path.<br />
 
-f1-Score Plot: <br />
+**f1-Score Plot:** <br />
 ![f1s-10](https://user-images.githubusercontent.com/32801148/114624182-efc7a780-9ccd-11eb-98a1-06393ae36cfb.png)
 
 
