@@ -22,6 +22,7 @@ Submission for EECS Lab-II Project at IISER Bhopal
 Run the HumanActivityRecognition_smartphone_based.py or HumanActivityRecognition_smartphone_based.ipynb with neccesary changes in the Dataset path.<br />
 
 **f1-Score Plot:** <br />
+![f1score](https://user-images.githubusercontent.com/32801148/114625367-c60f8000-9ccf-11eb-92dc-84ca29e24dd2.png)
 
 
 
