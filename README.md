@@ -10,7 +10,7 @@ Environment Requirements:
            numpy
            pandas
            matplotlib
-           seasborn
+           seaborn
 
 ML Algorithms used:
 
