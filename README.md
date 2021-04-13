@@ -2,7 +2,7 @@
 Submission for EECS Lab-II Project at IISER Bhopal
 
 
-DATASET: http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
+DATASET: <br />http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
            
 ENVIRONMENT REQUIREMENTS:
 
