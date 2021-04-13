@@ -11,6 +11,7 @@ Environment Requirements:
            pandas
            matplotlib
            seaborn
+           sci-kit learn
 
 ML Algorithms used:
 
