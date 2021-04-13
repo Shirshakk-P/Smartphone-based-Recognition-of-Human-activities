@@ -1,8 +1,10 @@
 # Smartphone-based-Recognition-of-Human-Activities
 Submission for EECS Lab-II Project at IISER Bhopal
 
-DATASET:     
-[Link to Google](http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions)
+DATASET:  
+
+           URL: http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
+[dataset](http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions)
       
       
 References:
