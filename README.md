@@ -21,6 +21,13 @@ ML Algorithms used:
 
 Run the HumanActivityRecognition_smartphone_based.py or HumanActivityRecognition_smartphone_based.ipynb with neccesary changes in the Dataset path.<br />
 
+f1-Score Plot:
+
+
+Author:
+
+      SHIRSHAKK PURKAYASTHA, 
+      BS-MS Student(EECS @ IISER Bhopal)
 References:
         
         1. Human Activity Recognition on Smartphones With Awareness of Basic Activities and Postural Transitions.
@@ -43,9 +50,4 @@ References:
         5.Human Activity and Motion Disorder Recognition: Towards Smarter Interactive Cognitive Environments.
         (Jorge Luis Reyes-Ortiz, Alessandro Ghio, Xavier Parra-Llanas, Davide Anguita, Joan Cabestany, Andreu CatalÃ). 
         21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013. 
-        
 
-Author:
-
-      SHIRSHAKK PURKAYASTHA, 
-      BS-MS Student(EECS @ IISER Bhopal)
