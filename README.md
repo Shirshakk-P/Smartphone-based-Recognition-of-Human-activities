@@ -18,6 +18,9 @@ ML Algorithms used:
            1. LOGISTIC REGRESSION
            2. K-NEAREST NEIGHBOURS
            3. SVM
+
+Run the HumanActivityRecognition_smartphone_based.py or HumanActivityRecognition_smartphone_based.ipynb with neccesary changes in the Dataset path.<br />
+
 References:
         
         1. Human Activity Recognition on Smartphones With Awareness of Basic Activities and Postural Transitions.
