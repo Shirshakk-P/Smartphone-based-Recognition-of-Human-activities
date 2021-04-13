@@ -5,8 +5,18 @@ Submission for EECS Lab-II Project at IISER Bhopal
 DATASET: <br />http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
            
 Environment Requirements:
+           
+           Python 3
+           numpy
+           pandas
+           matplotlib
+           seasborn
 
-      
+ML Algorithms used:
+
+           1. LOGISTIC REGRESSION
+           2. K-NEAREST NEIGHBOURS
+           3. SVM
 References:
         
         1. Human Activity Recognition on Smartphones With Awareness of Basic Activities and Postural Transitions.
