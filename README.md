@@ -2,9 +2,9 @@
 Submission for EECS Lab-II Project at IISER Bhopal
 
 
-DATASET: <br />http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
+**DATASET:** <br />http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
            
-Environment Requirements:
+**Environment Requirements:**
            
            Python 3
            numpy
@@ -13,7 +13,7 @@ Environment Requirements:
            seaborn
            sci-kit learn
 
-ML Algorithms used:
+**ML Algorithms used:**
 
            1. LOGISTIC REGRESSION
            2. K-NEAREST NEIGHBOURS
@@ -26,11 +26,11 @@ Run the HumanActivityRecognition_smartphone_based.py or HumanActivityRecognition
 
 
 
-Author:
+**Author:**
 
       SHIRSHAKK PURKAYASTHA, 
       BS-MS Student(EECS @ IISER Bhopal)
-References:
+**References:**
         
         1. Human Activity Recognition on Smartphones With Awareness of Basic Activities and Postural Transitions.
         (Jorge-Luis Reyes-Ortiz, Luca Oneto, Alessandro Ghio, Albert SamÃ¡, Davide Anguita and Xavier Parra). 
