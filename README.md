@@ -17,4 +17,5 @@ References:
 
 Author:
 
-      SHIRSHAKK PURKAYASTHA, BS-MS (EECS @ IISER Bhopal)
+      SHIRSHAKK PURKAYASTHA, 
+      BS-MS Student(EECS @ IISER Bhopal)
