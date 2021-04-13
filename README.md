@@ -1,4 +1,4 @@
-# Smartphone-based-Recognition-of-human-activities
+# Smartphone-based-Recognition-of-Human-Activities
 Submission for EECS Lab-II Project at IISER Bhopal
 
 DATASET:
