@@ -12,6 +12,8 @@ Submission for EECS Lab-II Project at IISER Bhopal
            matplotlib
            seaborn
            sci-kit learn
+           Google Colab
+
 
 **ML Algorithms used:**
 
@@ -19,13 +21,20 @@ Submission for EECS Lab-II Project at IISER Bhopal
            2. K-NEAREST NEIGHBOURS
            3. SVM
 
-Run the HumanActivityRecognition_smartphone_based.py or HumanActivityRecognition_smartphone_based.ipynb with neccesary changes in the Dataset path.<br />
+<br />
+
+**Running the Code:**
+
+           Run the HumanActivityRecognition_smartphone_based.py or HumanActivityRecognition_smartphone_based.ipynb 
+           with neccesary changes to the Dataset path.
 
 **f1-Score Plot:** <br />
 ![f1score](https://user-images.githubusercontent.com/32801148/114625367-c60f8000-9ccf-11eb-92dc-84ca29e24dd2.png)
 
 
+**OBSERVATIONS:**
 
+           Maximum accuracy amongst the three Classification models was found in the Logistic Regression Model.
 
 **Author:**
 
